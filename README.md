@@ -24,3 +24,15 @@ El bot opera bajo una lógica de seguimiento de tendencia:
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+
+Instalar las dependencias necesarias:
+
+Bash
+pip install ccxt pandas
+Configurar tus credenciales de API en las variables API_KEY y SECRET_KEY.
+
+Ejecutar el bot:
+
+Bash
+python bot.py
+   
