@@ -1,0 +1,4 @@
+# Ignorar claves privadas y archivos temporales
+bot.py
+__pycache__/
+.env
