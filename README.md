@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Binance](https://img.shields.io/badge/Exchange-Binance-yellow.svg)
 
+<img width="1192" height="956" alt="bot python" src="https://github.com/user-attachments/assets/60a7a158-3de4-46f7-8377-2798072421f0" />
 
 
 ## 📌 Descripción
