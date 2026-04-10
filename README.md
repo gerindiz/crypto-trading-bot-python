@@ -1,8 +1,5 @@
 # 🚀 Automated Crypto Trading Bot (Binance Spot)
 
-<p align="center">
-  <img src="demo.png" alt="Bot en funcionamiento" width="800">
-</p>
 
 ![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -30,7 +27,7 @@ El bot opera bajo una lógica de seguimiento de tendencia:
 ## ⚙️ Configuración e Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone (https://github.com/gerindiz/crypto-trading-bot-python.git)
 
 Instalar las dependencias necesarias:
 
