@@ -5,7 +5,8 @@
 ![Binance](https://img.shields.io/badge/Exchange-Binance-yellow.svg)
 
 <p align="center">
-  <img src="demo.png" alt="Demo del Bot" width="800">
+  <img src="<img width="1192" height="956" alt="bot python" src="https://github.com/user-attachments/assets/9ecc8365-39c9-4c9e-9865-657891c63e85" />
+" alt="Demo del Bot" width="800">
 </p>
 ## 📌 Descripción
 Este es un bot de trading sistemático desarrollado en Python para operar en el mercado Spot de Binance. El sistema utiliza un algoritmo basado en el cruce de Medias Móviles Exponenciales (EMA) y una gestión de riesgo avanzada con Stop Loss dinámico para maximizar ganancias y proteger el capital de forma automática.
