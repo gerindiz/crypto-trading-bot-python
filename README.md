@@ -1,5 +1,9 @@
 # 🚀 Automated Crypto Trading Bot (Binance Spot)
 
+<p align="center">
+  <img src="demo.png" alt="Bot en funcionamiento" width="800">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Binance](https://img.shields.io/badge/Exchange-Binance-yellow.svg)
