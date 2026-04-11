@@ -36,19 +36,18 @@ El bot opera bajo una lógica de seguimiento de tendencia:
    ```bash
    git clone [https://github.com/gerindiz/crypto-trading-bot-python.git](https://github.com/gerindiz/crypto-trading-bot-python.git)
 
-## ⚙️ Configuración e Instalación
-1. Clonar el repositorio:
-   ```bash
-   git clone (https://github.com/gerindiz/crypto-trading-bot-python.git)
-
 Instalar las dependencias necesarias:
 
 Bash
-pip install ccxt pandas
-Configurar tus credenciales de API en las variables API_KEY y SECRET_KEY.
+pip install ccxt pandas twilio
+Configurar tus credenciales:
+Edita las variables en el archivo bot.py:
+
+API_KEY y SECRET_KEY (Binance)
+
+account_sid y auth_token (Twilio)
 
 Ejecutar el bot:
 
 Bash
 python bot.py
-   
